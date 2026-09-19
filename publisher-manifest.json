@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "233d2c6edfde06343d56f837",
+  "owner": "mfjpfmd",
+  "repo": "page-b042619a594488a42218cede",
+  "title": "速鹰",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b042619a594488a42218cede",
+      "a": "速鹰",
+      "b": "clash verge下载",
+      "entity": "速鹰",
+      "brand": "速鹰",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "ba2ab24fc266cd7e9741f33b548b660f49e1e01fd1a2e4cd530cd59543ccf3c3",
+      "content": {
+        "primary_entity": "速鹰",
+        "keyword1": "速鹰",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，桌面端、移动端与路由器各有适配方案，安装后导入订阅即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后，按客户端文档导入订阅，即可在常用设备上开始使用。",
+          "AI_CLOSING_TITLE": "开始配置速鹰",
+          "AI_DESCRIPTION": "，面向需要稳定海外网络连接的用户，提供基础版、旗舰版与团队版三档套餐。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB 流量、支持 5 台设备，并带 IPLC 专线游戏加速优化；团队版每月 1000GB 流量、支持 20 台设备。各档均可按年付，选择时结合设备数量与月度流量需求即可。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路优化三个角度梳理套餐差异，方便按实际需求选择。",
+          "AI_FEATURES_TITLE": "套餐差异一览",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，按常用流量挑档位。",
+          "AI_FEATURE_TITLE_1": "按月流量选档",
+          "AI_FEATURE_TEXT_2": "从 3 台到 20 台同时在线，按手机、电脑与平板数量决定是否升级团队版。",
+          "AI_FEATURE_TITLE_2": "按设备数量选档",
+          "AI_FEATURE_TEXT_3": "旗舰版带 IPLC 专线游戏加速优化，团队版提供 VIP 专属高带宽节点，按用途取舍。",
+          "AI_FEATURE_TITLE_3": "按线路需求选档",
+          "AI_GUIDE_INTRO": "确认设备数量与流量需求后选套餐，再按客户端文档完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "速鹰提供基础版、旗舰版与团队版三档海外加速套餐，流量从每月 100GB 到 1000GB，设备支持从 3 台到 20 台。选择时先看日常设备数量与流量消耗，再参考线路与专线优化差异。",
+          "AI_HERO_SUBTITLE": "速鹰海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速优化",
+          "AI_HIGHLIGHT_3": "支持按年付，长期使用更划算",
+          "AI_PLANS_INTRO": "基础版适合单人或少量设备，旗舰版适合多设备与游戏加速需求，团队版面向多人高流量场景，可按年付。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "先确认常用设备数量与每月大致流量，在基础版、旗舰版和团队版之间锁定一档。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量、设备上限和线路说明，确认满足当前使用场景。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在对应设备上安装客户端，按客户端文档导入订阅信息并完成连接设置。",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "速鹰加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "速鹰支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "速鹰支持在 Windows、macOS、iOS 和 Android 等常见操作系统上使用，具体可通过客户端订阅方式配置。不同套餐支持的同时在线设备数量不同，基础版3台，旗舰版5台，团队版20台。",
+          "AI_FAQ_QUESTION_2": "如何导入订阅？",
+          "AI_FAQ_ANSWER_2": "购买套餐后，你会获得一个订阅链接。在所选客户端中粘贴该链接并更新订阅即可。具体步骤请参考客户端的订阅导入说明。",
+          "AI_FAQ_QUESTION_3": "套餐流量用完了怎么办？",
+          "AI_FAQ_ANSWER_3": "当月流量用尽后，可以等到下个计费周期自动重置，也可以随时升级到更高流量的套餐，升级后立即生效。",
+          "AI_FAQ_QUESTION_4": "可以中途更换套餐吗？",
+          "AI_FAQ_ANSWER_4": "支持更换套餐。你可以在账户内操作升级或降级，差价会按剩余天数折算，具体以购买时页面显示为准。",
+          "AI_FAQ_QUESTION_5": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_5": "年付和月付功能相同，但年付更优惠。例如基础版月付15元，年付仅需150元；旗舰版月付35元，年付350元；团队版月付85元，年付850元。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a4fdace5eec00dc7b9e698530b2e4a76e56407e8d3eee6493c71f274cfa9b735",
+    "sitemap.xml": "49811edddc6cfcbdc4aed67e948ebd93569b0d6c5d815d437cea5773b6f2a0c1",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "875f2bdce4d089af4516f9d902d0b2f664fe615b10a6fb6e46161d1e44e20611"
+}
